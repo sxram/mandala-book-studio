@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mandala-Buchstudio"
+  short_description: "Mandala-Bücher gestalten, variieren und für KDP prüfen"
+  default_prompt: "Nutze $mandala-book-studio, um aus der Buchvorlage eine neue Mandala-Ausgabe mit anderen Charakteren zu erstellen."

@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "title": "Giggle Dumplings - Magical Mandala Coloring Book",
+  "author": "Stefan Marx",
+  "brand": "Giggle Home",
+  "language": "en",
+  "age_recommendation": "6+",
+  "source_note": "German Interior v2; English special pages from UPDATED_v2. Covers are layout references, not KDP-approved print masters.",
+  "layout": {
+    "trim_points": [
+      612,
+      792
+    ],
+    "inside_margin_points": 39.6,
+    "outside_margin_points": 25.2,
+    "vertical_margin_points": 42.2796,
+    "interior_bleed": false,
+    "blank_reverse": true,
+    "paper": "white",
+    "ink": "black-and-white"
+  },
+  "frontmatter": [
+    {
+      "role": "title",
+      "asset": "pages-en-special/00_title_page.png",
+      "reuse": "update-for-new-book"
+    },
+    {
+      "role": "imprint",
+      "asset": "pages-en-special/01_imprint_page.png",
+      "reuse": "update-for-new-book"
+    },
+    {
+      "role": "characters",
+      "asset": "pages-en-special/02_meet_your_new_friends.png",
+      "reuse": "update-for-new-book"
+    },
+    null
+  ],
+  "motifs": [
+    {
+      "id": 1,
+      "category": "animal",
+      "asset": "pages-de/01_fox_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 2,
+      "category": "character",
+      "asset": "pages-de/02_sunny_mandala.png",
+      "reuse": "replace-characters"
+    },
+    {
+      "id": 3,
+      "category": "classic",
+      "asset": "pages-de/03_lotus_bloom_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 4,
+      "category": "animal",
+      "asset": "pages-de/04_bunny_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 5,
+      "category": "character",
+      "asset": "pages-de/05_dreamy_mandala.png",
+      "reuse": "replace-characters"
+    },
+    {
+      "id": 6,
+      "category": "classic",
+      "asset": "pages-de/06_flower_petal_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 7,
+      "category": "animal",
+      "asset": "pages-de/07_turtle_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 8,
+      "category": "activity",
+      "asset": "pages-en-special/08_find_the_6_hidden_stars.png",
+      "reuse": "replace-characters",
+      "task": "find-6-stars"
+    },
+    {
+      "id": 9,
+      "category": "character",
+      "asset": "pages-de/09_bao_mandala.png",
+      "reuse": "replace-characters"
+    },
+    {
+      "id": 10,
+      "category": "classic",
+      "asset": "pages-de/10_leaf_vine_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 11,
+      "category": "animal",
+      "asset": "pages-de/11_lion_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 12,
+      "category": "character",
+      "asset": "pages-de/12_nibbles_mandala.png",
+      "reuse": "replace-characters"
+    },
+    {
+      "id": 13,
+      "category": "classic",
+      "asset": "pages-de/13_sunburst_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 14,
+      "category": "animal",
+      "asset": "pages-de/14_butterfly_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 15,
+      "category": "character",
+      "asset": "pages-de/15_mochi_mandala.png",
+      "reuse": "replace-characters"
+    },
+    {
+      "id": 16,
+      "category": "activity",
+      "asset": "pages-en-special/16_find_the_8_hidden_hearts.png",
+      "reuse": "replace-characters",
+      "task": "find-8-hearts"
+    },
+    {
+      "id": 17,
+      "category": "animal",
+      "asset": "pages-de/17_deer_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 18,
+      "category": "classic",
+      "asset": "pages-de/18_moonlight_shapes_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 19,
+      "category": "character",
+      "asset": "pages-de/19_sunny_mochi_mandala.png",
+      "reuse": "replace-characters"
+    },
+    {
+      "id": 20,
+      "category": "animal",
+      "asset": "pages-de/20_peacock_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 21,
+      "category": "classic",
+      "asset": "pages-de/21_spiral_garden_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 22,
+      "category": "character",
+      "asset": "pages-de/22_three_dumplings_mandala.png",
+      "reuse": "replace-characters"
+    },
+    {
+      "id": 23,
+      "category": "animal",
+      "asset": "pages-de/23_dolphin_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 24,
+      "category": "activity",
+      "asset": "pages-en-special/24_find_the_10_hidden_stars.png",
+      "reuse": "replace-characters",
+      "task": "find-10-stars"
+    },
+    {
+      "id": 25,
+      "category": "classic",
+      "asset": "pages-de/25_diamond_blossom_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 26,
+      "category": "character",
+      "asset": "pages-de/26_five_friends_mandala.png",
+      "reuse": "replace-characters"
+    },
+    {
+      "id": 27,
+      "category": "animal",
+      "asset": "pages-de/27_panda_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 28,
+      "category": "classic",
+      "asset": "pages-de/28_snowflake_bloom_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 29,
+      "category": "character",
+      "asset": "pages-de/29_celebration_dumplings_mandala.png",
+      "reuse": "replace-characters"
+    },
+    {
+      "id": 30,
+      "category": "animal",
+      "asset": "pages-de/30_horse_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 31,
+      "category": "classic",
+      "asset": "pages-de/31_tropical_leaves_mandala.png",
+      "reuse": "usually-reuse"
+    },
+    {
+      "id": 32,
+      "category": "character",
+      "asset": "pages-de/32_giggle_dumpling_mandala.png",
+      "reuse": "replace-characters"
+    },
+    {
+      "id": 33,
+      "category": "activity",
+      "asset": "pages-en-special/33_design_your_own_dumpling.png",
+      "reuse": "replace-characters",
+      "task": "design-your-own-character"
+    }
+  ],
+  "cover_reference": "covers/Cover-EN.pdf",
+  "default_sample_motifs": [
+    1,
+    26,
+    3,
+    33
+  ],
+  "character_names": [
+    "Sunny",
+    "Mochi",
+    "Bao",
+    "Nibbles",
+    "Dreamy"
+  ]
+}
