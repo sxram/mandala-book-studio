@@ -47,3 +47,14 @@ Die vier ursprünglichen Rückseitenbilder waren erfundene Beispiele. Später wu
 Bildrahmen und bestehende Beschriftung bewahren. Innerhalb der Rahmen proportional skalieren und bei Bedarf die Originalbilder beschneiden; Konturen nicht nachzeichnen lassen. Ausschnitte müssen die Kategorien erkennbar zeigen, dürfen aber als Ausschnitte statt vollständiger Seiten gestaltet sein.
 
 Aufkleber sind komplette Objekte einschließlich weißer Außenkante, Herzform und Schmuck. Verschieben ist nicht dasselbe wie globales Zoomen. „English Edition“-Herz: genügend Abstand oben/rechts, ohne Titelüberdeckung. „33 magical mandalas“-Badge: rechts/unten innerhalb der sicheren Fläche, ohne Figurengesicht zu verdecken. Nach jeder Änderung beide Positionen, Schrift und Hintergrund erneut prüfen.
+
+
+## Graue Flächen auf weißem Papier
+
+Beim Neuaufbau der Giggle-Dumplings-Ausgabe am 31.10.2026 wurden vorhandene Rasterbilder unverändert in ein anderes PDF-Format gesetzt. Dadurch blieben helle graue Hintergrundrechtecke und Schattierungen aus den Quellen erhalten. Korrekte Seitenmaße und unveränderte Bilddaten waren kein Nachweis für einen reinweißen Malbuchhintergrund. Die frühere, abgelaufene Chatdatei mit „CLEAN_WHITE_SMOOTH_LINES“ im Namen konnte nicht aus der bloßen Formatkonvertierung wiederhergestellt werden.
+
+Wenn ein reinweißer Hintergrund gewünscht ist, vor dem finalen Satz jede tatsächlich verwendete Innenseite prüfen: Außenrand außerhalb des Bildes mit freien Flächen innerhalb des Bildes vergleichen und auf graue Rechtecke, Verläufe und Schattierungen achten. In einer separaten QA-Ansicht Kontrast verstärken oder Helligkeitswerte messen, damit sehr helle Flächen erkennbar werden. Keine Prüfkontrastverstärkung in die Druckdatei übernehmen.
+
+Ungewollte Grauflächen gezielt in neuen Arbeitskopien bereinigen. Keine pauschale harte Schwarzweiß-Schwelle ohne Prüfung: Sie kann dünne Linien, kleine Schrift, i-Punkte und weiche Linienkanten beschädigen. Dunkle gewollte Konturen und geschlossene Ausmalflächen erhalten; beabsichtigte Flächen von Fehlern unterscheiden. Vorher-/Nachherdetails prüfen, insbesondere Charaktertexte, Suchbildsymbole und dicht gezeichnete Mandalas. Textfreie Motive dürfen für eine ausdrücklich beauftragte Hintergrundbereinigung angepasst werden; die sonstige Vorgabe der pixelgleichen Wiederverwendung ist dann kein Grund, den Fehler beizubehalten.
+
+Verfahren, Parameter und betroffene Seiten im Ausgabemanifest festhalten und die fertigen PDFs erneut vollständig rendern. Deutsche und englische Ausgabe jeweils prüfen, auch wenn sie Motive teilen. „Clean white“, „glatte Linien“ oder „bereinigt“ nur behaupten, wenn die konkrete Ausgabe tatsächlich so bearbeitet und visuell geprüft wurde. Bleibt eine graue Fläche bestehen, sie als offenen Mangel nennen und die Ausgabe nicht als bereinigt ausgeben.
